@@ -5,4 +5,4 @@ Hello from master branch!
 
 user 1 added a new text
 
-user 1 added new test in branch new_test_4
+user 1 added new test in branch new_test_5
